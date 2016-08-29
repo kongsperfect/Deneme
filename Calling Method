@@ -1,0 +1,11 @@
+class Program
+	{
+	    static void SayHi(){
+	        Console.WriteLine("Hi");
+	    }
+	    
+		static void Main(string[] args)
+		{
+			SayHi();
+		}
+	}
